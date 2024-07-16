@@ -1,0 +1,13 @@
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\bin\Debug\netcoreapp3.1\TDDTestesUnitarios.exe
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\bin\Debug\netcoreapp3.1\TDDTestesUnitarios.deps.json
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\bin\Debug\netcoreapp3.1\TDDTestesUnitarios.runtimeconfig.json
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\bin\Debug\netcoreapp3.1\TDDTestesUnitarios.runtimeconfig.dev.json
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\bin\Debug\netcoreapp3.1\TDDTestesUnitarios.dll
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\bin\Debug\netcoreapp3.1\TDDTestesUnitarios.pdb
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\obj\Debug\netcoreapp3.1\TDDTestesUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\obj\Debug\netcoreapp3.1\TDDTestesUnitarios.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\obj\Debug\netcoreapp3.1\TDDTestesUnitarios.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\obj\Debug\netcoreapp3.1\TDDTestesUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\obj\Debug\netcoreapp3.1\TDDTestesUnitarios.dll
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\obj\Debug\netcoreapp3.1\TDDTestesUnitarios.pdb
+C:\Users\Rafa\Desktop\Estudos\Projetos\C# .net\TDDTestesUnitarios\TDDTestesUnitarios\obj\Debug\netcoreapp3.1\TDDTestesUnitarios.genruntimeconfig.cache
